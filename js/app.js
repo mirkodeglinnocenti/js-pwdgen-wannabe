@@ -23,4 +23,4 @@ console.log('il numero scelto è = ', numero_utente);
 const password_generata = document.getElementById('password_generata');
 password_generata.innerHTML = nome_utente + cognome_utente + colore_utente + numero_utente ;
 
-console.log(password_generata);
+console.log('La password generata è' , password_generata);
